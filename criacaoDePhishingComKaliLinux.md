@@ -1,6 +1,6 @@
 #Phishing para captura de senhas do Facebook
 ## Ferramentas
-  Kali Linux
+  Kali Linux;
   setoolkit
 ## Configuração
   Acesso root: sudo su
